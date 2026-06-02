@@ -1,0 +1,156 @@
+{
+  "schedule": [
+    {
+      "id": "recgVDDpU5BoMvoky",
+      "Notes": "Стандартный классический квиз",
+      "Attachment Summary": {
+        "state": "generated",
+        "value": "The image is an artistic illustration showing a person submerged underwater, looking up toward the surface. Light creates dynamic reflections on their face and neck, and bubbles rise from their mouth and nose. The mood conveys introspection, tranquility, and the interaction between light and water.",
+        "isStale": false
+      },
+      "Attachments": [
+        {
+          "id": "attFEa9hJbAMpiPd2",
+          "width": 1500,
+          "height": 2000,
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/EZRMh9MslYpR7C9fcfojFA/HX6xkpt0rWE2FZsnbwMsrw_kTqHQkMgT7vc3PJvaRzqGVBbcSCb2W7YehI7L5YQMm7gwLnEjcBiCU0tG1vt9GT5duEpATLvboFmoFdK1GOImDjG39hFA6XrtcvQeERgFDx9xObuzWY58OVrYZ7n-2U6bp3rV59t_npzkXU7yAmA/14GCEtxQlS1W7OHRh1gczPYcYsyBpIrtZG58rDBL-4g",
+          "filename": "yigyeu37os3h1.jpeg",
+          "size": 197097,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/4EJ_mEknyktDsG9dVkQhNw/2D34BrV20oPjF6tkl8ztHoJQqs_SB3TLVX5uGZe_hjPjhKXuX4xlg0gXjxHen5WSTqvZ6dq2aBFchg3UyYZqh8rn4OPDenL-_q7iuZ9BTgzvxnEtf0c-VKQEtB-y8gUsPRwVemhXCPJRWk27hPsEGA/KyYhFF1b2CWsiZcQWZm0eEbga1yLqJ_oI63bGJFWRgE",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/2jkExcJpbjXn08XY-u5CdQ/7-w0gAmtBXADUuA-Ps-UmISvd0zK__R4mBGGSlXtBdwUM5EMPvGymETrW-E8BdcF8TUM8cKipG7wm05Flc1TD6ryP0A4jXqBiaNIfANAK1j0wgzrhpGCJvuwXWg5tKJvgstxRKuA3zbAmLDwt3iIUA/b2Q_-u3cb_5azM6bodxtAczrFNqa5bw7czEw1A0F9F8",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/tG5rdApmaOcVIHVE5pldKA/n0uvk7cYiTcR4Ll7yB5Jyl1pf4Z4A2TFOfRzg8i_czGv-TtaU6hBgE806xFHuMddvAEqSukPGoQqlOgJppWpJrQLx6B_CsC9XZytM5EZGBAeI-PfjRZliCTQrlQTusqiCFhhReITC2PyBOwwCV3UfA/02HGU48xObHzMZvcToWeEqHxeMgJeF5ZVjwh3TjKmlA",
+              "width": 1500,
+              "height": 2000
+            }
+          }
+        }
+      ],
+      "Date": "2026-06-06T15:00:00.000Z",
+      "Name": "Квиз классика",
+      "Status": "On time",
+      "Location": "WL"
+    },
+    {
+      "id": "recjabQKza73EuEMn",
+      "Notes": "Квиз по IMDB Top 100",
+      "Attachment Summary": {
+        "state": "generated",
+        "value": "The document features an illustrated character named Lucyna Kushinada in a dynamic, stylized pose with a futuristic and cyberpunk aesthetic, indicating she is a central figure likely from a creative or entertainment work. No additional narrative or contextual information is provided.",
+        "isStale": false
+      },
+      "Attachments": [
+        {
+          "id": "attp95S2FPiV7zwI5",
+          "width": 2000,
+          "height": 4000,
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/GVM2EAqErgay6vZDmwvUQA/5he0qi4P8uDOGfAOH3aeJfNQRrXGmUwJcAWbMx3umyIbqB-VTPUNnvHfVdckErOZbW3F9GRPC2IGVzJmDzTeDwlvlYf-DnXNnrtf-xkvdhDnSFHCjHzezpNz-o6yYQw48EZqCRrsL0VZo7ukJ1hN720sndE1cAqbI7b_0xMQKtk/3ovUNo-prP3Tb4vFnJxgTsW47_odg6b59jq0oQYplvE",
+          "filename": "145017498_p1.jpg",
+          "size": 3993997,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/V0_vyQBbJFY0JyTFEE31AA/lrWPi2u0egvUlgZQ4PQtrTIwbUb424KExzAimDZpn0mwiVFqVGBWauc0NvnO1ddKhqgCn2cdfxZMv0ELxcUu2RfaCFKUFsC8-frvuXReujxSLWXOHytFGs_OJoK_Hpmjo6c8XEtty9Y2-HbUYe1U8A/UB48ssEabbald20FStwn9d-Ig0pcF0D3qYiZ6nQ8Luo",
+              "width": 18,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/KYl59E6M8olf-z164esxcQ/ZV4dd7ps5JqYWLFV1nIXiWJNfRMneODHU-OSlywT7ZWyWmzJiF1BgKo4ALr1Z06VqyFNHl0WrfIXCom5hybsVPl2BxnzAEUm51ldH2kYwuz5wpIC4BNG8bkmjmnicKSXVafYnTB6dZwR3C830uMW9g/UN4ZGioGNs-gmLMk7Nr339jKgtV_Ol7xQempJhhHLNA",
+              "width": 512,
+              "height": 1024
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/KMciM4YSCIIPyxvZw_PXRg/xlHwjsp-R1WlrF3JtEp2tVQ8R_RQ_v7gR0R8D9RkTs618Sl8QB2WZ0cjv0zBuzzs5ruLOtDoC2fEArdtyOvD1-JhhtQE1HI_8o4uU7PiKSNxNqeL15HagpdwHSAB7uTVcP09eYkJmapIHV-TeA9pog/5eoADVFWc6qfOhdAGbgb-tgWR_mz6jIJvz-3VZIAVZE",
+              "width": 1500,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "Date": "2026-06-12T12:30:00.000Z",
+      "Name": "Квиз по кино",
+      "Status": "Moved",
+      "Location": "Staut"
+    },
+    {
+      "id": "recwh4mjBLdxEMQ4T",
+      "Notes": "Квиз по музыке 2000х",
+      "Attachment Summary": {
+        "state": "generated",
+        "value": "The image depicts a female anime character with long white hair, elf-like ears, and a shy or embarrassed expression. She is dressed in a black long-sleeve top and a short white skirt. The artwork is signed \"UsagiHop.\" There is no textual content to summarize.",
+        "isStale": false
+      },
+      "Attachments": [
+        {
+          "id": "attiORiskEdDMRxhp",
+          "width": 900,
+          "height": 1380,
+          "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/rGdvzxnZJ98kpO-2-d40pg/uSOp5FKyeLyJAM5cqrwIuCmt4QMlp4slANBxi6w8elBq0V0DyD_21cXFxG1mKhZrCYmdi3mpzSa_nkaAF4jp0yePlOH48MF3pVm_Zxx3DQIYm8sfO7rc8yztnYKw53QhCidd4ezk1Mq4lylFWl0Rm4qC4WxswJWOkyNmHo8W4Wo/yLue-2qG7zpnrEwkkpMv3B-payAKbseyUJQlFbkO3ME",
+          "filename": "912yum028z2h1.jpeg",
+          "size": 93738,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/_Y1zwAKkrQe-0jQzI0uSBQ/BOpBXmPQk2i4ajDcgKIj6dNg4viLZNUOq5GQFg6B9M6t2zhuR_VCmrcKwyxBNuNCaZOssQKZqRgt84q-CA6cWMQitk0_mmv3ekQ1gkJY8ix8Rc-kweqB5YGed43O_e416Qz-1IWzazieRti7r8GG4Q/egDmRmDh-YCv4iwGjKgumekO21KrQTu4l79WKUGrbS0",
+              "width": 23,
+              "height": 35
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/JLrL1_MhOzX_wpqRVuZ8vQ/dUc1bEdpMiZe78NW8rcpLVCB5-Bi5uAwtjsDx_LtCZfCQqN8T2Fzg1NA2DlyWgaYghscaQ6A4OVnZAgFUUwUdf4B1eCVt3bq-aG_q9UqDCyhNUjXA9tl1fbi0bwXjsMOuP-RKHcKjJ52bCquQiSURQ/0wUAgtNRvlj3_kcucAs26DbT5aB-C57qoX0epRF2T8c",
+              "width": 512,
+              "height": 785
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/53/53/1780437600000/-IxgYsEiB48yCAtLmQOx_Q/AvgAxNniI-YTQqJAaYNy8yRPd36NPw07GcSWKqrMfxKeZ6yaCy2f3Bf6ZW_TvJeOwnOoaYy1Kl2EceRuQ3GjYjzHYsKa7H2I4TlYSkDUvE4PlmMGyxyhMftLnBfGVAf1H7Muy2Bp6gdNSu6vnlWP-g/Jg4e1k3ENfS1RZuVKGgx56QB-rMN7A828sYPK6nMnC0",
+              "width": 900,
+              "height": 1380
+            }
+          }
+        }
+      ],
+      "Date": "2026-06-08T14:30:00.000Z",
+      "Name": "Квиз по музыке",
+      "Status": "Cancelled",
+      "Location": "Jameson"
+    }
+  ],
+  "standings": [
+    {
+      "id": "recVYOBAJt0Rus9DN",
+      "Attachment Summary": {
+        "state": "error",
+        "errorType": "emptyDependency",
+        "value": null,
+        "isStale": false
+      }
+    },
+    {
+      "id": "recdmpytoS6Fv5Gf7",
+      "Attachment Summary": {
+        "state": "error",
+        "errorType": "emptyDependency",
+        "value": null,
+        "isStale": false
+      }
+    },
+    {
+      "id": "rectLW4rvgD2lEQ6R",
+      "Attachment Summary": {
+        "state": "error",
+        "errorType": "emptyDependency",
+        "value": null,
+        "isStale": false
+      }
+    }
+  ]
+}
